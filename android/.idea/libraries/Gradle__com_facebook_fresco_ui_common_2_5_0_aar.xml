@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="Gradle: com.facebook.fresco:ui-common:2.5.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/092d442bcee99653c59f6546fc11b2e1/transformed/ui-common-2.5.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/11c625a5d7d36ff96c8d2b30efc07c95/transformed/ui-common-2.5.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/14ba9890f10365887675952134e72305/transformed/ui-common-2.5.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/5c4570debf7f9d383aea4a39925c4552/transformed/ui-common-2.5.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/32e3b685d9429e0cf0cd74dc7822eb49/transformed/ui-common-2.5.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/11c625a5d7d36ff96c8d2b30efc07c95/transformed/ui-common-2.5.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/11c625a5d7d36ff96c8d2b30efc07c95/transformed/ui-common-2.5.0/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.facebook.fresco/ui-common/2.5.0/66a5f47db887dae67f6b32117fd90965e6406005/ui-common-2.5.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.facebook.fresco/ui-common/2.5.0/a646b9485662da281a6374e140a85cdd1c8a3b36/ui-common-2.5.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.uzairdawood123:UpdatedCallLib:0.1.3@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/6faa7d0f4bb56aabb33b448c49699105/transformed/jetified-UpdatedCallLib-0.1.2/jars/classes.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/6faa7d0f4bb56aabb33b448c49699105/transformed/jetified-UpdatedCallLib-0.1.2/jars/libs/classes-2.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/6faa7d0f4bb56aabb33b448c49699105/transformed/jetified-UpdatedCallLib-0.1.2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/6faa7d0f4bb56aabb33b448c49699105/transformed/jetified-UpdatedCallLib-0.1.2/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.uzairdawood123/UpdatedCallLib/0.1.3/bceb3e5711e9e4d2011fb8d00fb5ebd7abc62a1/UpdatedCallLib-0.1.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

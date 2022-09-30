@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/CallExample.iml" filepath="$PROJECT_DIR$/.idea/modules/CallExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/CallExample.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/CallExample.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/CallExample.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/CallExample.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/CallExample.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/CallExample.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/CallExample.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/CallExample.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/434168658/CallExample.react-native-call.iml" filepath="$PROJECT_DIR$/.idea/modules/434168658/CallExample.react-native-call.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/434168658/CallExample.react-native-call.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/434168658/CallExample.react-native-call.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/434168658/CallExample.react-native-call.main.iml" filepath="$PROJECT_DIR$/.idea/modules/434168658/CallExample.react-native-call.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/434168658/CallExample.react-native-call.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/434168658/CallExample.react-native-call.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1779244812/react-native-gradle-plugin.iml" filepath="$PROJECT_DIR$/.idea/modules/-1779244812/react-native-gradle-plugin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1779244812/react-native-gradle-plugin.main.iml" filepath="$PROJECT_DIR$/.idea/modules/-1779244812/react-native-gradle-plugin.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1779244812/react-native-gradle-plugin.test.iml" filepath="$PROJECT_DIR$/.idea/modules/-1779244812/react-native-gradle-plugin.test.iml" />
+    </modules>
+  </component>
+</project>
